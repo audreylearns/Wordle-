@@ -1,6 +1,5 @@
 # Wordle!
-Wordle!
-***
+
 HOW TO PLAY:
 ***
 Players have a maximum of 6 lives.
