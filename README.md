@@ -6,8 +6,8 @@ Players have a maximum of 6 lives.
 Each guess must be 5 letters in length.
 
 Letter	 indicates correct letter location
-+	 indicates correct letter wrong location
-x 	 indicated no letters matched
+'+'	     indicates correct letter wrong location
+'x' 	   indicated no letters matched
 
 ***
 
