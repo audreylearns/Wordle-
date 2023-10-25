@@ -1,7 +1,7 @@
 
 Designed a implementation of WORDLE executable built in C++.
 ***
-HOW TO PLAY:
+⸜( *ˊᵕˋ* )⸝ HOW TO PLAY:
 ***
 Players have a maximum of 6 lives.
 Each guess must be 5 letters in length.
