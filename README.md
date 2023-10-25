@@ -1,5 +1,5 @@
-#Wordle!
-Designed a implementation of WORDLE executable built in C++.
+# Wordle!
+<br>Designed a implementation of WORDLE executable built in C++.
 ***
 ⸜( *ˊᵕˋ* )⸝ HOW TO PLAY:
 ***
