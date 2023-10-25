@@ -1,5 +1,6 @@
-# Wordle!
- Designed a implementation of wordle executable built in C++.
+
+Designed a implementation of WORDLE executable built in C++.
+***
 HOW TO PLAY:
 ***
 Players have a maximum of 6 lives.
