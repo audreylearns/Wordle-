@@ -15,7 +15,7 @@ Word List is from words.txt; words.txt provided as base with topic: Animals
 txt. format must be:
 
 #topic
-word
+<br>word
 
 
 ***
@@ -27,4 +27,4 @@ Sample run:
 ***
 (°▽°)/ Requirements to run: an IDE
 
-Recommended IDE: Visual Studio Code
+<br>Recommended IDE: Visual Studio Code
