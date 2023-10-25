@@ -1,0 +1,1 @@
+C:\pines\documents\personal projects\c++\wordle\wordle_game\x64\Debug\wordle_game.exe

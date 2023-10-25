@@ -1,0 +1,68 @@
+>>>  animals
+*-------------------------*
+ROUND: 1
+*=========================*
+|   LETS PLAY WORDLE!!!   |
+|-------------------------|
+|                         |
+|         xxxxx           |
+*=========================*
+        ->bison
+          xx+xx
+        ->snail
+          sxxxx
+        ->sheep
+          shxex
+        ->shrew
+          shrew
+*-------------------------*
+You won!
+Lives: 3     Score: 1
+Play again? yes
+
+>>>  animals
+*-------------------------*
+ROUND: 2
+*=========================*
+|   LETS PLAY WORDLE!!!   |
+|-------------------------|
+|                         |
+|         xxxxx           |
+*=========================*
+        ->betta
+          xxxxx
+        ->dingo
+          ++xxx
+        ->squid
+          squid
+*-------------------------*
+You won!
+Lives: 1     Score: 2
+Play again? y
+
+>>>  animals
+*-------------------------*
+ROUND: 3
+*=========================*
+|   LETS PLAY WORDLE!!!   |
+|-------------------------|
+|                         |
+|         xxxxx           |
+*=========================*
+        ->otter
+          xxxxx
+*-------------------------*
+| You ran out of lives :( |
+*-------------------------*
+|     Word: puppy         |
+*-------------------------*
+| History:                |
+*=========================*
+  Total Score: 2
+  Lives: 0
+  Words matched:
+1. shrew
+2. squid
+*-------------------------*
+|   Thanks for playing!   |
+*-------------------------*
