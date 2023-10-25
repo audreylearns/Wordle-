@@ -20,7 +20,7 @@ txt. format must be:
 
 ***
 Sample run:
-![image](https://github.com/audreylearns/Wordle-/assets/109978653/9a5117f9-bcb1-4169-be08-969af18fff3b)
+<br>![image](https://github.com/audreylearns/Wordle-/assets/109978653/9a5117f9-bcb1-4169-be08-969af18fff3b)
 
 
 
